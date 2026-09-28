@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.2,
-          "height": 4.4,
-          "width": 4.4
+          "drill": 1.0668,
+          "height": 1.5748,
+          "width": 1.5748
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -544,7 +544,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../order/Production/Fuse/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -681,7 +681,7 @@
         "uuid": "edb1809c-767d-4732-82a5-e09154bd7612"
       }
     ],
-    "used_designators": "",
+    "used_designators": "J4",
     "variants": []
   },
   "sheets": [

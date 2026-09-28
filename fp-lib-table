@@ -2,4 +2,7 @@
 	(version 7)
 	(lib (name "Library") (type "KiCad") (uri "${KIPRJMOD}/Library.pretty") (options "") (descr ""))
 	(lib (name "fuse relay box") (type "KiCad") (uri "${KIPRJMOD}/fuse relay box.pretty") (options "") (descr ""))
+	(lib (name "fuse-relay-box-main") (type "KiCad") (uri "C:/Users/User/Desktop/ChulalongkornUniversity/Rapidamante/fuse-relay-box-main.pretty") (options "") (descr ""))
+	(lib (name "fuse_3557-2_footprint_library") (type "KiCad") (uri "${KIPRJMOD}/fuse_3557-2_footprint_library.pretty") (options "") (descr ""))
+	(lib (name "fuse-relay_NewFootprints") (type "KiCad") (uri "${KIPRJMOD}/fuse-relay_NewFootprints.pretty") (options "") (descr ""))
 )
